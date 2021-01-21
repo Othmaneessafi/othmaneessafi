@@ -26,12 +26,13 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=oes-safi)](https://github.com/othmaneessafi)
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/Othmane.es?style=social)](https://twitter.com/othmane.es)
+### Connect with me:
 
-[![GitHub Othmaneessafi](https://img.shields.io/github/followers/Ysrbolles?label=follow&style=social)](https://github.com/othmaneessafi)
-[![Linkedin: imthepk](https://img.shields.io/badge/-ysrbolles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/othmane-es-safi-99632b167)](https://www.linkedin.com/in/othmane-es-safi-99632b167)
+[<img align="left" alt="othmane.es | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="othmaneessafi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="othmane.es | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br />
 
 <!--
 **Ysrbolles/Ysrbolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

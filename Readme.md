@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
-<p>I'm Othmane, Fullstack developer.</p><br>
+<p>I'm Othmane, Fullstack developer.</p><br/>
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma) <br>
 - 😄 I’m currently learning everything<br>
 - ⚡ Fun fact: I play football, beatbox and guitar...
@@ -19,6 +19,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="c++" src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+  
 </p>
 
 

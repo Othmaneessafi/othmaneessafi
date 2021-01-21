@@ -1,5 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Othmane, Fullstack developer, I’m currently studying at  1337 Coding school
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
+<p>I'm Othmane, Fullstack developer.
+- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -19,12 +20,11 @@
 </p>
 
 
-- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=othmaneessafi&show_icons=true&theme=radical)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othmaneessafi&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=oes-safi)](https://github.com/othmaneessafi)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=oes-safi)](https://github.com/othmaneessafi)
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/BollesYassir?style=social)](https://twitter.com/othmane.es)
 

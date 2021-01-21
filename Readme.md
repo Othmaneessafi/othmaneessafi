@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
 <p>I'm Othmane, Fullstack developer.
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
+- 🌱 I’m currently learning everything
+- ⚡ Fun fact: I play football, beatbox and guitar...
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />

@@ -26,10 +26,10 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=oes-safi)](https://github.com/othmaneessafi)
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/BollesYassir?style=social)](https://twitter.com/othmane.es)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/Othmane.es?style=social)](https://twitter.com/othmane.es)
 
 [![GitHub Othmaneessafi](https://img.shields.io/github/followers/Ysrbolles?label=follow&style=social)](https://github.com/othmaneessafi)
-[![Linkedin: imthepk](https://img.shields.io/badge/-ysrbolles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysrbolles/)](https://www.linkedin.com/in/othmane-es-safi-99632b167)
+[![Linkedin: imthepk](https://img.shields.io/badge/-ysrbolles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/othmane-es-safi-99632b167)](https://www.linkedin.com/in/othmane-es-safi-99632b167)
 
 
 

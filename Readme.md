@@ -23,8 +23,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=othmaneessafi&show_icons=true&theme=radical)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othmaneessafi&langs_count=8&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=oes-safi)](https://github.com/othmaneessafi)
-
 ### Connect with me:
 
 [<img align="left" alt="othmane.es | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/othmane_es)

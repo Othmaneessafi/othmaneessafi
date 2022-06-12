@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
 <p>I'm Othmane, Fullstack developer.</p>
-![scaler-create-impact](https://user-images.githubusercontent.com/44867969/173241907-d2e7797d-aab4-4c25-9af7-14dd638719a2.gif)
+
+![typing-fast](https://user-images.githubusercontent.com/44867969/173242089-75c3e6ae-613a-47bb-af71-2748df06e53f.gif)
 
 
 - 👨🏽‍💻 I’m currently studying at 1337 School<br>

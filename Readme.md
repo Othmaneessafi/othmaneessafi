@@ -6,6 +6,9 @@
 ![when-the-coding-when-the](https://user-images.githubusercontent.com/44867969/173242235-c49d3de2-6f05-467b-a974-e6186a0a56eb.gif)
 
 
+![759r](https://user-images.githubusercontent.com/44867969/173242442-c9cd68e8-755e-4cfe-9918-e03bc0fb60bc.gif)
+
+
 
 - 👨🏽‍💻 I’m currently studying at 1337 School<br>
 - 😄 I’m currently learning everything<br>

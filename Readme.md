@@ -62,8 +62,10 @@
  
 # <img src="https://user-images.githubusercontent.com/44867969/173247843-407f54d6-9aad-45f6-8ac8-4205423b4e65.PNG" width="50" />  Reach me at 
 
-[<img align="left" alt="othmane.es | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/othmane_es)
-[<img align="left" alt="othmaneessafi | LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/othmane-es-safi-99632b167/)
-[<img align="left" alt="othmane.es | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/othmane.es/)
+<a href="mailto:othmaneessafi1@gmail.com">!<img src="https://user-images.githubusercontent.com/44867969/173248274-56810d67-1340-43e4-a52c-65a365c81340.png" width="50" /></a>
+<a href="https://www.linkedin.com/in/othmane-es-safi/">!<img src="https://user-images.githubusercontent.com/44867969/173248278-17f361c6-61f5-42fa-84c8-0e2ff8309b85.png" width="50" /></a>
+<a href="https://twitter.com/othmane_es">!<img src="https://user-images.githubusercontent.com/44867969/173248276-2db4be25-58f8-495f-bc91-994feabaa55d.png" width="50" /></a>
+
+
 
 <br />

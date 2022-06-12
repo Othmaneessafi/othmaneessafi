@@ -1,4 +1,4 @@
-![Hi](https://user-images.githubusercontent.com/44867969/173242797-49f18116-969a-405b-a781-383cd0d52ae2.PNG)<h1> Hey! I am Othmane Es-safi.</h1>
+Hey ![Hi](https://user-images.githubusercontent.com/44867969/173242797-49f18116-969a-405b-a781-383cd0d52ae2.PNG) I am Othmane Es-safi.
 <h2>Fullstack developer.</h2>
 
 ![typing-fast](https://user-images.githubusercontent.com/44867969/173242089-75c3e6ae-613a-47bb-af71-2748df06e53f.gif)

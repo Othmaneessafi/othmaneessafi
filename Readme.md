@@ -1,5 +1,6 @@
-<p style="font-size: 30px">Hey <img src="https://user-images.githubusercontent.com/44867969/173242797-49f18116-969a-405b-a781-383cd0d52ae2.PNG" width="100"/>  I am Othmane Es-safi.</p>
-
+<div align="center">
+# Hey <img src="https://user-images.githubusercontent.com/44867969/173242797-49f18116-969a-405b-a781-383cd0d52ae2.PNG" width="150"/>  I am Othmane Es-safi.
+</div>
 <h2>Fullstack developer.</h2>
 
 ![typing-fast](https://user-images.githubusercontent.com/44867969/173242089-75c3e6ae-613a-47bb-af71-2748df06e53f.gif)

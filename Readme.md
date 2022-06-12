@@ -1,8 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
-<p>I'm Othmane, Fullstack developer.</p>
+![Hi](https://user-images.githubusercontent.com/44867969/173242797-49f18116-969a-405b-a781-383cd0d52ae2.PNG)<h1> Hey! I am Othmane Es-safi.</h1>
+<h2>Fullstack developer.</h2>
 
 ![typing-fast](https://user-images.githubusercontent.com/44867969/173242089-75c3e6ae-613a-47bb-af71-2748df06e53f.gif)
-
 
 ![759r](https://user-images.githubusercontent.com/44867969/173242442-c9cd68e8-755e-4cfe-9918-e03bc0fb60bc.gif)
 

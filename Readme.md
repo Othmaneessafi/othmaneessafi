@@ -9,6 +9,9 @@
 ![759r](https://user-images.githubusercontent.com/44867969/173242442-c9cd68e8-755e-4cfe-9918-e03bc0fb60bc.gif)
 
 
+![Bm7L](https://user-images.githubusercontent.com/44867969/173242725-b0294e34-81c2-4f9f-8531-042fc0265d09.gif)
+
+
 
 - 👨🏽‍💻 I’m currently studying at 1337 School<br>
 - 😄 I’m currently learning everything<br>
